@@ -12,10 +12,10 @@ document.getElementById("yesButton").addEventListener("click", function() {
     if (clickCount === 1) {
         // First click: Change the GIF and statement
         document.getElementById("giftImage").src = "path_to_your_second_gift.gif";
-        document.getElementById("statementText").innerHTML = "Your Second Bold Statement";
+        document.getElementById("statementText").innerHTML = "HEHE, No was never the right answer. Now i wanted to tell you something";
     } else if (clickCount === 2) {
         // Second click: Display the third statement and change buttons
-        document.getElementById("statementText").innerHTML = "Your Third Bold Statement";
+        document.getElementById("statementText").innerHTML = "Happy Birthday, your finally Legal Wooo!!!";
         document.getElementById("yesButton").style.display = "none";
 
         // Add a new Yes button
