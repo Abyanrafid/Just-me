@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.gift-container {
+    position: relative;
+    display: inline-block;
+}
+
+#statementText {
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
