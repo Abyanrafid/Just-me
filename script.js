@@ -10,7 +10,7 @@ document.getElementById("yesButton").addEventListener("click", function() {
     clickCount++;
 
     if (clickCount === 1) {
-        document.getElementById("giftImage").src = "path_to_your_second_gift.gif";
+        document.getElementById("giftImage").src = "94A9F7A5-066E-412E-8B1C-3D83F1EF3E65.gif";
         document.getElementById("statementText").innerHTML = "HEHE, no was never the right answer, also wanna tell you something you wanna know what it is?";
     } else if (clickCount === 2) {
         document.getElementById("giftImage").src = "path_to_your_third_gift.gif";
