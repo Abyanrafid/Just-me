@@ -13,7 +13,7 @@ document.getElementById("yesButton").addEventListener("click", function() {
         document.getElementById("giftImage").src = "94A9F7A5-066E-412E-8B1C-3D83F1EF3E65.gif";
         document.getElementById("statementText").innerHTML = "HEHE, no was never the right answer, also wanna tell you something you wanna know what it is?";
     } else if (clickCount === 2) {
-        document.getElementById("giftImage").src = "path_to_your_third_gift.gif";
+        document.getElementById("giftImage").src = "75E6F8F3-A36F-4049-BC53-7B4B2F6B8751.gif";
         document.getElementById("statementText").innerHTML = "HAPPY BIRTHDAY, WOOOOOO, YOUR OFFICIALY LEGAL";
         document.getElementById("yesButton").style.display = "none";
 
